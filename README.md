@@ -33,7 +33,9 @@ cat <filename>
 
 ## Lessons Learned
 • Basic Linux commands are essential for CTF challenges
+
 • Always inspect files before assuming complexity
+
 • Beginner challenges build habits needed for advanced cybersecurity work
 
 ## Defensive Perspective
