@@ -1,31 +1,43 @@
-# CTF Learning & Practice 🚩
+# 🧪 TryHackMe Write-ups
 
-This repository documents my ongoing learning and hands-on practice in cybersecurity through Capture The Flag (CTF) challenges.
+This branch contains my personal write-ups and notes from completing **TryHackMe rooms**, used as part of my hands-on learning in cybersecurity.
 
-The write-ups here focus on **understanding vulnerabilities, tools, and techniques**, with clear explanations of how each challenge was solved and what security lessons can be learned from it.
+The purpose of these write-ups is to:
+- Reinforce concepts learned through practice
+- Document problem-solving approaches and tools used
+- Track progress over time in a structured and transparent way
 
-## What This Repository Contains
-- Beginner to intermediate CTF write-ups (picoCTF, TryHackMe, etc.)
-- Step-by-step breakdowns of tools and commands used
-- Key lessons learned from each challenge
-- Defensive perspectives and mitigation notes where applicable
-
-## Why Capture The Flag (CTFs)?
-CTFs are used as a practical learning method to:
-- Build strong Linux and command-line skills
-- Develop an attacker mindset to better understand system weaknesses
-- Improve problem-solving and analytical thinking
-- Practice technical documentation and reporting
-
-## Repository Structure
-- The **main branch** provides an overview of this learning repository
-- Individual CTF challenges are documented in **separate branches**, organized by platform and challenge name
-
-## Disclaimer
-All challenges documented in this repository are **intentionally vulnerable practice environments** designed for education and skill development.
-
-No real-world systems, networks, or data were targeted.
+These write-ups focus on **learning and understanding**, not just reaching solutions.
 
 ---
 
-📌 *This repository is maintained for learning, practice, and professional development purposes.*
+## 🎯 Scope
+The rooms and challenges covered here may include:
+- Linux fundamentals
+- Networking concepts
+- Enumeration techniques
+- Web security basics
+- Introductory exploitation and defense concepts
+- CTF-style problem solving
+
+Difficulty ranges from **beginner to intermediate**, depending on the room.
+
+---
+
+## 🧠 Notes on Write-ups
+- Write-ups are created **after completing** rooms
+- Some steps may be summarized to avoid spoilers
+- Emphasis is placed on *why* something works, not just *what* was done
+
+This repository is intended as a **learning record**, not a showcase of mastery.
+
+---
+
+## 📌 Progress Tracker
+Rooms completed and write-ups added will be listed and updated below.
+
+### Completed Rooms
+- _To be updated_
+
+### In Progress
+- _To be updated_
