@@ -17,3 +17,4 @@ Difficulty and challenge complexity increase progressively as skills develop.
 | Challenge Name | Category | Difficulty | Write-up |
 |---------------|----------|------------|----------|
 | Obedient Cat | General Skills | Easy | ✔️ |
+| wave A Flag | General Skills | Easy | ✔️ |
