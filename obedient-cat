@@ -38,3 +38,6 @@ cat <filename>
 
 ## Defensive Perspective
 Storing sensitive information in plaintext files can lead to exposure if access controls are misconfigured. Proper permissions and secure storage practices are essential.
+
+## Final Notes
+Although this is one of the easiest picoCTF challenges, it establishes a foundation for navigating systems, inspecting files, and developing a methodical approach to problem-solving in Capture The Flag competitions.
