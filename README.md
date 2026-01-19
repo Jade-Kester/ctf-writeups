@@ -1,42 +1,31 @@
-# picoCTF – Obedient Cat (Beginner Write-up)
+# CTF Learning & Practice 🚩
 
-## Challenge Information
-- **Platform:** picoCTF
-- **Category:** General Skills
-- **Difficulty:** Easy
-- **Challenge Name:** Obedient Cat
+This repository documents my ongoing learning and hands-on practice in cybersecurity through Capture The Flag (CTF) challenges.
 
-## Description
-This challenge introduces beginners to basic Linux terminal commands by requiring the user to locate and read a file containing the flag.
+The write-ups here focus on **understanding vulnerabilities, tools, and techniques**, with clear explanations of how each challenge was solved and what security lessons can be learned from it.
 
-## Objective
-Use Linux command-line tools to navigate directories and read the contents of the provided file.
+## What This Repository Contains
+- Beginner to intermediate CTF write-ups (picoCTF, TryHackMe, etc.)
+- Step-by-step breakdowns of tools and commands used
+- Key lessons learned from each challenge
+- Defensive perspectives and mitigation notes where applicable
 
-## Solution Overview
-After downloading the file, I used the Linux terminal to inspect it.  
-The challenge focuses on familiarizing users with basic commands rather than exploitation.
+## Why Capture The Flag (CTFs)?
+CTFs are used as a practical learning method to:
+- Build strong Linux and command-line skills
+- Develop an attacker mindset to better understand system weaknesses
+- Improve problem-solving and analytical thinking
+- Practice technical documentation and reporting
 
-Steps taken:
-1. Navigated to the directory using `cd`
-2. Listed files using `ls`
-3. Read the file contents using `cat`
+## Repository Structure
+- The **main branch** provides an overview of this learning repository
+- Individual CTF challenges are documented in **separate branches**, organized by platform and challenge name
 
-The file was a plain text file (created using the Kate text editor), and the flag was stored directly inside it.
+## Disclaimer
+All challenges documented in this repository are **intentionally vulnerable practice environments** designed for education and skill development.
 
-## Command Used
-```bash
-cat <filename>
-```
-## Flag
-(Flag is redacted to avoid spoilers.)
-`picoCTF{redacted}`
+No real-world systems, networks, or data were targeted.
 
-## Lessons Learned
-• Basic Linux commands are essential for CTF challenges
+---
 
-• Always inspect files before assuming complexity
-
-• Beginner challenges build habits needed for advanced cybersecurity work
-
-## Defensive Perspective
-Storing sensitive information in plaintext files can lead to exposure if access controls are misconfigured. Proper permissions and secure storage practices are essential.
+📌 *This repository is maintained for learning, practice, and professional development purposes.*
