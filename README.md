@@ -28,7 +28,7 @@ The file was a plain text file (created using the Kate text editor), and the fla
 cat <filename>
 ```
 ## Flag
-# (Flag is redacted to avoid spoilers.)
+(Flag is redacted to avoid spoilers.)
 `picoCTF{redacted}`
 
 ## Lessons Learned
