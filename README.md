@@ -18,3 +18,4 @@ Difficulty and challenge complexity increase progressively as skills develop.
 |---------------|----------|------------|----------|
 | Obedient Cat | General Skills | Easy | ✔️ |
 | Wave A Flag | General Skills | Easy | ✔️ |
+| Hidden in Plainsight | Forensics | Easy | ✔️ |
